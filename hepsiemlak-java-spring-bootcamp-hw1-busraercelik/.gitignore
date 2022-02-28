@@ -1,0 +1,7 @@
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+.idea_modules/
+.idea/*
